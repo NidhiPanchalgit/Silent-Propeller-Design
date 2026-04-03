@@ -1,7 +1,7 @@
 Drone Propeller Design 
 
 This project involves the design of a drone propeller using Autodesk Fusion 360.
-The focus was on creating an efficient propeller geometry that provides **stable thrust, smooth airflow, and reduced noise**.
+The focus was on creating an efficient propeller geometry that provides stable thrust, smooth airflow, and reduced noise.
 
  Tools & Software
  Autodesk Fusion 360 , CAD Modeling
@@ -38,8 +38,6 @@ Future Improvements
 * Performance testing with real drone setup
 * Noise reduction optimization
 * Material selection for manufacturing
-
-Conclusion
 
 This project demonstrates the integration of **CAD design and aerodynamic principles** to develop a functional drone propeller, enhancing both technical knowledge and practical engineering skills.
 
